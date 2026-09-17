@@ -1,0 +1,8 @@
+{
+  "name": "Aura",
+  "description": "Student Success Hub turning recorded conversations into reviewed organizational memory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
